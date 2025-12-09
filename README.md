@@ -7,3 +7,5 @@ GTT-F: An Effective Theory of the Spacetime Medium for Dark Energy, MOND Galaxie
 👉 [Open the article (PDF)](./gttf_paper_EN.pdf)
 
 👉 [Открыть статью в русской версии (PDF)](./gttf_paper_RU.pdf)
+
+👉 [Открыть статью в русской версии 2 (PDF)](./gttf_paper_RU_v2.pdf)
